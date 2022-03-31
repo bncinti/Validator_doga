@@ -1,0 +1,17 @@
+/*
+* File: member.component.css
+* Author: Bán Cintia
+* Copyright: 2022, Bán Cintia
+* Group: Szoft II/N
+* Date: 2022-03-31
+* Github: https://github.com/bncinti/
+* Licenc: GNU GPL
+*/
+
+input.ng-invalid {
+    background-color: #E6DBD6;
+  }
+
+  input.ng-valid {
+    background-color: #C4AA9D;
+  }
